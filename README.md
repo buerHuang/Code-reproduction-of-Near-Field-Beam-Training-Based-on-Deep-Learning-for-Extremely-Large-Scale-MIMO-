@@ -1,4 +1,7 @@
 # Code reproduction of Near Field Beam Training Based on Deep Learning for Extremely Large Scale MIMO
+
+![DNBTnet](https://github.com/buerHuang/Code-reproduction-of-Near-Field-Beam-Training-Based-on-Deep-Learning-for-Extremely-Large-Scale-MIMO-/blob/main/deep_learning.svg)
+
 This is an example of Code reproduction of the paper “Near-Field Beam Training Based on Deep Learning for Extremely Large-Scale MIMO”
 
 Link: https://ieeexplore.ieee.org/document/10163797
